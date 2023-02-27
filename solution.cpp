@@ -1,8 +1,6 @@
 //
 //  solution.cpp
 //
-//  Created by Roberto Flores on 12/21/16.
-//  Copyright © 2016 Roberto Flores. All rights reserved.
 //
 
 #include <iostream>
